@@ -40,7 +40,7 @@ More information about his blog [https://networkofthrones.wordpress.com](https:/
 
  ### Important characters
  This is an summary table for total five meansures. For details click [here](Results).  
- We choose **TOP 5 IMPORTANT CHARACTERS** from five different measure.
+ We choose **TOP 5 IMPORTANT CHARACTERS** from five different measures.
  
 | Rank   | Degree Centrality | Closeness Centrality | Pagerank | Eigenvector Centrality	| Betweenness Centrality |
 | :----: | :---------------: | :------------------: | :------: | :--------------------:	| :--------------------: |
