@@ -39,6 +39,6 @@ More information about his blog [https://networkofthrones.wordpress.com](https:/
  ## Result
 
  ### Important characters
- This is an summary table for total five meansures. For details click [here](../Results)
+ This is an summary table for total five meansures. For details click [here](..master/Results)
  
  ### Communities detection
