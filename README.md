@@ -1,6 +1,6 @@
 # Social Network Analysis
 
-## Group member:
+## Group member
 * **Nguyen Hoang An** - *18520430@gm.uit.edu.vn*
 * **Duong Trong Van** - *18521630@gm.uit.edu.vn*
 
