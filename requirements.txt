@@ -1,0 +1,4 @@
+  
+###### Requirements with Version Specifiers ######`
+###### python==3.9.0 conda-forge ######`
+networkx==2.5
