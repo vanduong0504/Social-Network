@@ -10,15 +10,31 @@
 <!--ts-->
    * [Install requirements](#install-requirements)
    * [Data](#data)
-   * [Installation](#installation)
+   * [Method](#method)
+   * [Result](result)
 <!--te-->
 
-## Install requirements:
+## Install requirements
 Copy or move this requirements.txt to another environment and install with it.
 ```Shell
 pip install -r requirements.txt
 ```
-## Data:
+## Data
 Character Interaction Networks for the HBO Series "Game of Thrones"  
 Thanks [Andrew Beveridge](https://twitter.com/mathbeveridge) for his data. You can check it [here](https://github.com/mathbeveridge/gameofthrones)  
 More information about his blog [https://networkofthrones.wordpress.com](https://networkofthrones.wordpress.com/)
+
+## Method
+* **Using the first book (in total five books)**
+* **Find important characters based on some measures**
+    * Degree Centrality
+    * loseness Centrality
+    * Pagerank
+    * Eigenvector Centrality
+    * Betweenness Centrality
+* **Communities detection** 
+    * Modularity Clustering
+    * K-means Clustering
+ 
+ # Result
+ 
