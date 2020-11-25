@@ -9,7 +9,7 @@
 
 <!--ts-->
    * [Install requirements](#install-requirements)
-   * [Table of contents](#table-of-contents)
+   * [Data](#data)
    * [Installation](#installation)
 <!--te-->
 
