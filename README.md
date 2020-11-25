@@ -1,10 +1,10 @@
-# Social Network Analysis
+# Social Network Analysis  
 
-## Group member
+# Group member
 * **Nguyen Hoang An** - *18520430@gm.uit.edu.vn*
 * **Duong Trong Van** - *18521630@gm.uit.edu.vn*
 
-## Table of contents
+# Table of contents
 =================
 
 <!--ts-->
@@ -36,5 +36,9 @@ More information about his blog [https://networkofthrones.wordpress.com](https:/
     * Modularity Clustering
     * K-means Clustering
  
- # Result
+ ## Result
+
+ ### Important characters
+ This is an summary table for total five meansures. For details click [here](../Results)
  
+ ### Communities detection
