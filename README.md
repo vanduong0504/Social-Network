@@ -28,7 +28,7 @@ More information about his blog [https://networkofthrones.wordpress.com](https:/
 * **Using the first book (in total five books)**
 * **Find important characters based on some measures**
     * Degree Centrality
-    * loseness Centrality
+    * Loseness Centrality
     * Pagerank
     * Eigenvector Centrality
     * Betweenness Centrality
