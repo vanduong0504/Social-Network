@@ -28,9 +28,8 @@ We used [Gephi](https://gephi.org/) for visualization our network.
 
 ## Data
 Character Interaction Networks for the HBO Series "Game of Thrones"  
-Thanks [Andrew Beveridge](https://twitter.com/mathbeveridge) for his data. You can check it [here](https://github.com/mathbeveridge/asoiaf).  
-More information about his blog [https://networkofthrones.wordpress.com](https://networkofthrones.wordpress.com/).  
-For this project we used [first book](https://github.com/mathbeveridge/asoiaf/blob/master/data/asoiaf-all-nodes.csv) in total five books from his data.
+Thanks [Andrew Beveridge](https://twitter.com/mathbeveridge) for his data. For details, go [here](https://github.com/mathbeveridge/asoiaf). More information about his blog [https://networkofthrones.wordpress.com](https://networkofthrones.wordpress.com/).  
+For this project, we used [first book](https://github.com/mathbeveridge/asoiaf/blob/master/data/asoiaf-all-nodes.csv) in total five books from his data.
 
 ## Method
 * **Important characters based on different measures**
