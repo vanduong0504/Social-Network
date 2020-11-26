@@ -9,9 +9,12 @@
 
 <!--ts-->
    * [Install requirements](#install-requirements)
+   * [Tool](#tool)
    * [Data](#data)
    * [Method](#method)
    * [Result](result)
+   * [Graph Visualization](#graph-visualization)
+   
 <!--te-->
 
 ## Install requirements
@@ -19,6 +22,10 @@ Copy or move this requirements.txt to another environment and install with it.
 ```Shell
 pip install -r requirements.txt
 ```
+
+##Tool
+We used [Gephi](https://gephi.org/). for visualization our network
+
 ## Data
 Character Interaction Networks for the HBO Series "Game of Thrones"  
 Thanks [Andrew Beveridge](https://twitter.com/mathbeveridge) for his data. You can check it [here](https://github.com/mathbeveridge/gameofthrones).  
@@ -26,7 +33,7 @@ More information about his blog [https://networkofthrones.wordpress.com](https:/
 
 ## Method
 * **Using the first book (in total five books)**
-* **Find important characters based on some measures**
+* **Important characters based on different measures**
     * Degree Centrality
     * Loseness Centrality
     * Pagerank
@@ -36,7 +43,7 @@ More information about his blog [https://networkofthrones.wordpress.com](https:/
     * Modularity Clustering
     * K-means Clustering
  
- ## Result
+ ## Results
 
  ### Important characters
  This is an summary table for total five meansures. For details click [here](Results).  
@@ -51,3 +58,18 @@ More information about his blog [https://networkofthrones.wordpress.com](https:/
 | 5   | Jon-Snow | Robb-Stark | Catelyn-Stark | Joffrey-Baratheon	| Catelyn-Stark |
 
  ### Communities detection
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+## Graph Visualization
+<img src = 'graph.png'>
