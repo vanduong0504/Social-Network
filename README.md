@@ -42,33 +42,41 @@ For this project, we used [first book](https://github.com/mathbeveridge/asoiaf/b
     * Modularity Clustering
     * K-means Clustering
  
- ## Results
+## Results
+This is summary tables for our project. For details go [here](Results).
 
- ### Important characters
- This is an summary table for total five meansures. For details click [here](Results).  
- We choose **TOP 5 IMPORTANT CHARACTERS** from five different measures.
- 
-| Rank   | Degree Centrality | Closeness Centrality | Pagerank | Eigenvector Centrality	| Betweenness Centrality |
-| :----: | :---------------: | :------------------: | :------: | :--------------------:	| :--------------------: |
-| 1   | Eddard-Stark | Eddard-Stark | Eddard-Stark | Eddard-Stark	| Eddard-Stark |
-| 2   | Robert-Baratheon | Robert-Baratheon | Robert-Baratheon | Robert-Baratheon	| Robert-Baratheon |
-| 3   | Tyrion-Lannister | Tyrion-Lannister | Jon-Snow | Sansa-Stark		| Tyrion-Lannister |
-| 4   | Catelyn-Stark	 | Catelyn-Stark	 | Tyrion-Lannister	 | Tyrion-Lannister		| Jon-Snow |
-| 5   | Jon-Snow | Robb-Stark | Catelyn-Stark | Joffrey-Baratheon	| Catelyn-Stark |
+### Important characters
+We choose **TOP 5 IMPORTANT CHARACTERS** from five different measures.
+| Rank | Degree Centrality | Closeness Centrality | Pagerank | Eigenvector Centrality	| Betweenness Centrality |
+| :--: | :---------------: | :------------------: | :------: | :--------------------:	| :--------------------: |
+| 1 | Eddard-Stark | Eddard-Stark | Eddard-Stark | Eddard-Stark	| Eddard-Stark |
+| 2 | Robert-Baratheon | Robert-Baratheon | Robert-Baratheon | Robert-Baratheon	| Robert-Baratheon |
+| 3 | Tyrion-Lannister | Tyrion-Lannister | Jon-Snow | Sansa-Stark		| Tyrion-Lannister |
+| 4 | Catelyn-Stark	 | Catelyn-Stark	 | Tyrion-Lannister	 | Tyrion-Lannister		| Jon-Snow |
+| 5 | Jon-Snow | Robb-Stark | Catelyn-Stark | Joffrey-Baratheon	| Catelyn-Stark |
 
- ### Communities detection
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+### Communities detection
+#### Modularity Clustering
+| Community | Number of Character |
+| :-------: | :-----------------: | 
+| 1 | 24 |
+| 2 | 39 |
+| 3 | 23 |
+| 4 | 26 | 
+| 5 | 20 |
+| 6 | 27 |
+| 7 | 2 |
+
+#### K-means Clustering
+| Community | Number of Character |
+| :-------: | :-----------------: | 
+| 1 | 10 |
+| 2 | 11 |
+| 3 | 126 |
+| 4 | 14 | 
+| 5 | 17 |
+| 6 | 6 |
+| 7 | 3 |
  
 ## Graph Visualization
 <img src = 'graph.png'>
