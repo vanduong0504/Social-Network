@@ -68,4 +68,4 @@ For purpose of equity, we chose **NUMBER OF CLUSTERS** in K-means equal Modulari
 | 7 | 2 | 3 |
 
 ## Graph Visualization
-<img src = 'graph.png'>
+<img src = 'GoT book-1 Graph.png'>
