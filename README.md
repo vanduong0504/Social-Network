@@ -55,7 +55,8 @@ We choose **TOP 5 IMPORTANT CHARACTERS** from five different measures.
 | 4 | Catelyn-Stark	 | Catelyn-Stark	 | Tyrion-Lannister	 | Tyrion-Lannister		| Jon-Snow |
 | 5 | Jon-Snow | Robb-Stark | Catelyn-Stark | Joffrey-Baratheon	| Catelyn-Stark |
 
-### Communities detection
+### Communities detection 
+For purpose of equity, we chose **NUMBER OF CLUSTERS** in K-means equal Modularity 
 | Community | Number of Character (Modularity Clustering) | Number of Character (K-means Clustering) |
 | :-------: | :-----------------------------------------: |  :-------------------------------------: |
 | 1 | 24 | 10 |
@@ -66,6 +67,5 @@ We choose **TOP 5 IMPORTANT CHARACTERS** from five different measures.
 | 6 | 27 | 16 |
 | 7 | 2 | 3 |
 
- 
 ## Graph Visualization
 <img src = 'graph.png'>
