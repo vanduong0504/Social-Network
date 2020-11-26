@@ -56,27 +56,16 @@ We choose **TOP 5 IMPORTANT CHARACTERS** from five different measures.
 | 5 | Jon-Snow | Robb-Stark | Catelyn-Stark | Joffrey-Baratheon	| Catelyn-Stark |
 
 ### Communities detection
-#### Modularity Clustering
-| Community | Number of Character |
-| :-------: | :-----------------: | 
-| 1 | 24 |
-| 2 | 39 |
-| 3 | 23 |
-| 4 | 26 | 
-| 5 | 20 |
-| 6 | 27 |
-| 7 | 2 |
+| Community | Number of Character (Modularity Clustering) | Number of Character (K-means Clustering) |
+| :-------: | :-----------------------------------------: |  :-------------------------------------: |
+| 1 | 24 | 10 |
+| 2 | 39 | 11 |
+| 3 | 23 | 126 |
+| 4 | 26 | 14 |
+| 5 | 20 | 17 |
+| 6 | 27 | 16 |
+| 7 | 2 | 3 |
 
-#### K-means Clustering
-| Community | Number of Character |
-| :-------: | :-----------------: | 
-| 1 | 10 |
-| 2 | 11 |
-| 3 | 126 |
-| 4 | 14 | 
-| 5 | 17 |
-| 6 | 6 |
-| 7 | 3 |
  
 ## Graph Visualization
 <img src = 'graph.png'>
