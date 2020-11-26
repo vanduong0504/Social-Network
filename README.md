@@ -12,7 +12,7 @@
    * [Tool](#tool)
    * [Data](#data)
    * [Method](#method)
-   * [Result](result)
+   * [Results](results)
    * [Graph Visualization](#graph-visualization)
    
 <!--te-->
