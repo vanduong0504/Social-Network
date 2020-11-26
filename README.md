@@ -43,7 +43,7 @@ For this project, we used [first book](https://github.com/mathbeveridge/asoiaf/b
     * K-means Clustering
  
 ## Results
-This is summary tables for our project. For details go [here](Results).
+This is two summary tables for our project. For details go [here](Results).
 
 ### Important characters
 We choose **TOP 5 IMPORTANT CHARACTERS** from five different measures.
