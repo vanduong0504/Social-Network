@@ -72,4 +72,4 @@ For purpose of equity, we chose **NUMBER OF CLUSTERS** in K-means equal Modulari
 <img src = 'GOT.png'>
 
 ## Source code
-We implement out project in Python language with NetworkX package. More details [here]https://colab.research.google.com/drive/14UXxVCHdjEVObSZTEyTwRjdjsw1WgED0?usp=sharing).
+We implement out project in Python language with NetworkX package. More details [here](https://colab.research.google.com/drive/14UXxVCHdjEVObSZTEyTwRjdjsw1WgED0?usp=sharing).
