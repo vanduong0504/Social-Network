@@ -60,13 +60,13 @@ We choose **TOP 5 IMPORTANT CHARACTERS** from five different measures.
 For purpose of equity, we chose **NUMBER OF CLUSTERS** in K-means equal Modularity 
 | Community | Number of Character (Modularity Clustering) | Number of Character (K-means Clustering) |
 | :-------: | :-----------------------------------------: |  :-------------------------------------: |
-| 1 | 24 | 10 |
-| 2 | 39 | 11 |
-| 3 | 23 | 126 |
-| 4 | 26 | 14 |
-| 5 | 20 | 17 |
-| 6 | 27 | 16 |
-| 7 | 2 | 3 |
+| 1 | 37 | 120 |
+| 2 | 28 | 14 |
+| 3 | 22 | 17 |
+| 4 | 26 | 5 |
+| 5 | 37 | 5 |
+| 6 | 19 | 14 |
+| 7 | 18 | 12 |
 
 ## Graph Visualization
 <img src = 'GOT.png'>
