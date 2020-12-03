@@ -47,7 +47,7 @@ We implement out project in Python language with NetworkX package. More details 
     * K-means Clustering
  
 ## Results
-This is two summary tables for our project. For details go [here](Results).
+This is two summary tables for our project. More details [here](Results).
 
 ### Important characters
 We choose **TOP 5 IMPORTANT CHARACTERS** from five different measures.
