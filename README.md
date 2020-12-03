@@ -11,10 +11,10 @@
    * [Install requirements](#install-requirements)
    * [Tool](#tool)
    * [Data](#data)
+   * [Source code](#source-code)
    * [Method](#method)
    * [Results](#results)
    * [Graph Visualization](#graph-visualization)
-   * [Source code](#source-code)
    
 <!--te-->
 
@@ -31,6 +31,9 @@ We used [Gephi](https://gephi.org/) for visualization our network.
 Character Interaction Networks for the HBO Series "Game of Thrones"  
 Thanks [Andrew Beveridge](https://twitter.com/mathbeveridge) for his data. For details, go [here](https://github.com/mathbeveridge/asoiaf). More information about his blog [https://networkofthrones.wordpress.com](https://networkofthrones.wordpress.com/).  
 For this project, we used [first book](https://github.com/mathbeveridge/asoiaf/blob/master/data/asoiaf-all-nodes.csv) in total five books from his data.
+
+## Source code
+We implement out project in Python language with NetworkX package. More details [here](https://colab.research.google.com/drive/14UXxVCHdjEVObSZTEyTwRjdjsw1WgED0?usp=sharing).
 
 ## Method
 * **Important characters based on different measures**
@@ -70,6 +73,3 @@ For purpose of equity, we chose **NUMBER OF CLUSTERS** in K-means equal Modulari
 
 ## Graph Visualization
 <img src = 'GOT.png'>
-
-## Source code
-We implement out project in Python language with NetworkX package. More details [here](https://colab.research.google.com/drive/14UXxVCHdjEVObSZTEyTwRjdjsw1WgED0?usp=sharing).
