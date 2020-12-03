@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 
 ## Tool
-We used [Gephi](https://gephi.org/) for visualization our network.
+We use [Gephi](https://gephi.org/) for visualization our network.
 
 ## Data
 Character Interaction Networks for the HBO Series "Game of Thrones"  
